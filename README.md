@@ -18,7 +18,12 @@ This project demonstrates fundamental game development concepts such as collisio
 
 ## How to Run
 
-1. Install Java:
-   ```bash
+1. Clone or download this repository.
+2. Open the project in **Apache NetBeans**.
+3. Build the project.
+4. Click **Run Project** (or press **F6**) to start the game.
 
+## Author
+
+**Aakifah Arshad**
 
